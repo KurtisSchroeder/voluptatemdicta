@@ -1,0 +1,61 @@
+{
+  "name": "voluptatemdicta",
+  "version": "1.0.0",
+  "description": "Wrapper for bitcoin exchange apis. The easiest way to add cryptocurrency market data into your application!",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KurtisSchroeder/voluptatemdicta.git"
+  },
+  "keywords": [
+    "bitcoin",
+    "facilis",
+    "beatae",
+    "zcash",
+    "sunt",
+    "btc",
+    "ltc",
+    "eth",
+    "etc",
+    "zec",
+    "cash",
+    "corrupti",
+    "bcc",
+    "bch",
+    "bitcon average",
+    "bitconaverage",
+    "crypto",
+    "currency",
+    "delectus",
+    "et",
+    "market",
+    "blockchain",
+    "sed",
+    "bitfinex",
+    "dolores",
+    "coinbase",
+    "dignissimos",
+    "poloniex",
+    "kraken",
+    "sapiente",
+    "numquam",
+    "nostrum",
+    "coins",
+    "bit",
+    "exchange",
+    "ad"
+  ],
+  "author": "ConorFay",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  },
+  "dependencies": {
+    "axios": "^0.15.3"
+  },
+  "homepage": "https://github.com/KurtisSchroeder/voluptatemdicta.git"
+}
